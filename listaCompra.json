@@ -1,0 +1,276 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Carrefour",
+            "direccion": "Av. de Guadalajara, 2, 28032 Madrid",
+            "ubicacion": [
+                40.418402225385954,
+                -3.6219151302912422
+            ],
+            "aperturaFestivos": true,
+            "secciones": [
+                {
+                    "seccion": "pescaderia",
+                    "productos": [
+                        {
+                            "nombre": "Lubina salvaje",
+                            "marca": "",
+                            "descripcion": "Lubina salvaje fresca.",
+                            "unidadCompra": "pieza",
+                            "precioUnitario": 12.00,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "charcuteria",
+                    "productos": [
+                        {
+                            "nombre": "Jamón cocido extra",
+                            "marca": "Campofrío",
+                            "descripcion": "Jamón cocido extra al corte.",
+                            "UnidadCompra": "Kg",
+                            "precioUnitario": 14.00,
+                            "ofertaActiva": true,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "Dos productos Campofrío por uno. Se descontará el más barato.",
+                                    "unidadCompra": "",
+                                    "precioOferta": 14.00,
+                                    "fechaInicio": "20/03/2021",
+                                    "fechaFin": "30/03/2021"
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Pechuga de pavo braseada",
+                            "marca": "Campofrío",
+                            "descripcion": "Pechuga de pavo braseada al corte",
+                            "UnidadCompra": "Kg",
+                            "precioUnitario": 16.00,
+                            "ofertaActiva": true,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "Dos productos Campofrío por uno. Se descontará el más barato.",
+                                    "unidadCompra": "",
+                                    "precioOferta": 16.00,
+                                    "fechaInicio": "20/03/2021",
+                                    "fechaFin": "30/03/2021"
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": false
+                        }
+                    ]
+                },
+                {
+                    "seccion": "conservas",
+                    "productos": [
+                        {
+                            "nombre": "Tomate frito casero",
+                            "marca": "Helios",
+                            "descripcion": "Tomate frito casero en bote de cristal.",
+                            "UnidadCompra": "500 gr",
+                            "precioUnitario": 2.25,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": false,
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Atún en aceite de oliva",
+                            "marca": "Albo",
+                            "descripcion": "Atún claro en aceite de oliva",
+                            "UnidadCompra": "Pack de 125 gr x 3",
+                            "precioUnitario": 3.50,
+                            "ofertaActiva": true,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "Segunda unidad al 70%",
+                                    "unidadCompra": "2 Packs de 125 gr x 3",
+                                    "precioOferta": 2.28,
+                                    "fechaInicio": "20/03/2021",
+                                    "fechaFin": "30/03/2021"
+                                }
+                            ],
+                            "productoHabitual": false,
+                            "adquirido": false
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Mercadona",
+            "direccion": "San Telesforo, 30. 28017 Madrid",
+            "ubicacion": [
+                40.425441857034905,
+                -3.6341641856309863
+            ],
+            "aperturaFestivos": false,
+            "secciones": [
+                {
+                    "seccion": "charcutería",
+                    "productos": [
+                        {
+                            "nombre": "Jamón cocido finas lonchas",
+                            "marca": "Hacendado",
+                            "descripcion": "Jamón cocido extra loncheado",
+                            "UnidadCompra": "Paquete 200 gr",
+                            "precioUnitario": 3.00,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": false,
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Pechuga de pavo finas lonchas",
+                            "marca": "Hacendado",
+                            "descripcion": "Pechuga de pavo loncheada baja en sal",
+                            "UnidadCompra": "Paquete 200 gr",
+                            "precioUnitario": 4.00,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": true
+                        }
+                    ]
+                },
+                {
+                    "seccion": "conservas",
+                    "productos": [
+                        {
+                            "nombre": "Tomate frito casero",
+                            "marca": "Hacendado",
+                            "descripcion": "Tomate frito casero en bote de cristal.",
+                            "UnidadCompra": "500 gr",
+                            "precioUnitario": 2.10,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": true
+                        },
+                        {
+                            "nombre": "Atún en aceite de oliva",
+                            "marca": "Hacendado",
+                            "descripcion": "Atún claro en aceite de oliva",
+                            "UnidadCompra": "Pack de 125 gr x 3",
+                            "precioUnitario": 3.10,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Av. de la Institución Libre de Enseñanza, 23C, 28037 Madrid",
+            "ubicacion": [
+                40.43725992117683,
+                -3.6346611741860984
+            ],
+            "aperturaFestivos": true,
+            "secciones": [
+                {
+                    "seccion": "conservas",
+                    "productos": [
+                        {
+                            "nombre": "Tomate frito casero",
+                            "marca": "Sondey",
+                            "descripcion": "Tomate frito con cebolla en bote de cristal",
+                            "unidadCompra": "500 gr",
+                            "precioUnitario": 1.98,
+                            "ofertaActiva": false,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "",
+                                    "unidadCompra": "",
+                                    "precioOferta": "",
+                                    "fechaInicio": "",
+                                    "fechaFin": ""
+                                }
+                            ],
+                            "productoHabitual": false,
+                            "adquirido": false
+                        },
+                        {
+                            "nombre": "Hummus de kalamata",
+                            "marca": "Livorno",
+                            "descripcion": "Hummus con aceitunas Kalamata",
+                            "unidadCompra": "Envase 200 gr",
+                            "precioUnitario": 2.00,
+                            "ofertaActiva": true,
+                            "oferta": [
+                                {
+                                    "descripcionOferta": "10% descuento",
+                                    "unidadCompra": "Envase 200 gr",
+                                    "precioOferta": 1.90,
+                                    "fechaInicio": "16/03/2021",
+                                    "fechaFin": "23/03/2021"
+                                }
+                            ],
+                            "productoHabitual": true,
+                            "adquirido": true
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+	<nombre>Carrefour</nombre>
+	<direccion>Av. de Guadalajara, 2, 28032 Madrid</direccion>
+	<ubicacion>40.418402225385954</ubicacion>
+	<ubicacion>-3.6219151302912422</ubicacion>
+	<aperturaFestivos>true</aperturaFestivos>
+	<secciones>
+		<seccion>pescaderia</seccion>
+		<productos>
+			<array>
+				<nombre>Lubina salvaje</nombre>
+				<marca/>
+				<descripcion>Lubina salvaje fresca.</descripcion>
+				<unidadCompra>pieza</unidadCompra>
+				<precioUnitario>12.0</precioUnitario>
+				<ofertaActiva>false</ofertaActiva>
+				<oferta>
+					<array>
+						<descripcionOferta/>
+						<unidadCompra/>
+						<precioOferta/>
+						<fechaInicio/>
+						<fechaFin/>
+					</array>
+				</oferta>
+				<productoHabitual>true</productoHabitual>
+				<adquirido>false</adquirido>
+			</array>
+		</productos>
+	</secciones>
+	<secciones>
+		<seccion>charcuteria</seccion>
+		<productos>
+			<nombre>Jamón cocido extra</nombre>
+			<marca>Campofrío</marca>
+			<descripcion>Jamón cocido extra al corte.</descripcion>
+			<UnidadCompra>Kg</UnidadCompra>
+			<precioUnitario>14.0</precioUnitario>
+			<ofertaActiva>true</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta>Dos productos Campofrío por uno. Se descontará el más barato.</descripcionOferta>
+					<unidadCompra/>
+					<precioOferta>14.0</precioOferta>
+					<fechaInicio>20/03/2021</fechaInicio>
+					<fechaFin>30/03/2021</fechaFin>
+				</array>
+			</oferta>
+			<productoHabitual>true</productoHabitual>
+			<adquirido>true</adquirido>
+		</productos>
+		<productos>
+			<nombre>Pechuga de pavo braseada</nombre>
+			<marca>Campofrío</marca>
+			<descripcion>Pechuga de pavo braseada al corte</descripcion>
+			<UnidadCompra>Kg</UnidadCompra>
+			<precioUnitario>16.0</precioUnitario>
+			<ofertaActiva>true</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta>Dos productos Campofrío por uno. Se descontará el más barato.</descripcionOferta>
+					<unidadCompra/>
+					<precioOferta>16.0</precioOferta>
+					<fechaInicio>20/03/2021</fechaInicio>
+					<fechaFin>30/03/2021</fechaFin>
+				</array>
+			</oferta>
+			<productoHabitual>true</productoHabitual>
+			<adquirido>false</adquirido>
+		</productos>
+	</secciones>
+	<secciones>
+		<seccion>conservas</seccion>
+		<productos>
+			<nombre>Tomate frito casero</nombre>
+			<marca>Helios</marca>
+			<descripcion>Tomate frito casero en bote de cristal.</descripcion>
+			<UnidadCompra>500 gr</UnidadCompra>
+			<precioUnitario>2.25</precioUnitario>
+			<ofertaActiva>false</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta/>
+					<unidadCompra/>
+					<precioOferta/>
+					<fechaInicio/>
+					<fechaFin/>
+				</array>
+			</oferta>
+			<productoHabitual>false</productoHabitual>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>Atún en aceite de oliva</nombre>
+			<marca>Albo</marca>
+			<descripcion>Atún claro en aceite de oliva</descripcion>
+			<UnidadCompra>Pack de 125 gr x 3</UnidadCompra>
+			<precioUnitario>3.5</precioUnitario>
+			<ofertaActiva>true</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta>Segunda unidad al 70%</descripcionOferta>
+					<unidadCompra>2 Packs de 125 gr x 3</unidadCompra>
+					<precioOferta>2.28</precioOferta>
+					<fechaInicio>20/03/2021</fechaInicio>
+					<fechaFin>30/03/2021</fechaFin>
+				</array>
+			</oferta>
+			<productoHabitual>false</productoHabitual>
+			<adquirido>false</adquirido>
+		</productos>
+	</secciones>
+	<nombre>Mercadona</nombre>
+	<direccion>San Telesforo, 30. 28017 Madrid</direccion>
+	<ubicacion>40.425441857034905</ubicacion>
+	<ubicacion>-3.6341641856309863</ubicacion>
+	<aperturaFestivos>false</aperturaFestivos>
+	<secciones>
+		<seccion>charcutería</seccion>
+		<productos>
+			<nombre>Jamón cocido finas lonchas</nombre>
+			<marca>Hacendado</marca>
+			<descripcion>Jamón cocido extra loncheado</descripcion>
+			<UnidadCompra>Paquete 200 gr</UnidadCompra>
+			<precioUnitario>3.0</precioUnitario>
+			<ofertaActiva>false</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta/>
+					<unidadCompra/>
+					<precioOferta/>
+					<fechaInicio/>
+					<fechaFin/>
+				</array>
+			</oferta>
+			<productoHabitual>false</productoHabitual>
+			<adquirido>false</adquirido>
+		</productos>
+		<productos>
+			<nombre>Pechuga de pavo finas lonchas</nombre>
+			<marca>Hacendado</marca>
+			<descripcion>Pechuga de pavo loncheada baja en sal</descripcion>
+			<UnidadCompra>Paquete 200 gr</UnidadCompra>
+			<precioUnitario>4.0</precioUnitario>
+			<ofertaActiva>false</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta/>
+					<unidadCompra/>
+					<precioOferta/>
+					<fechaInicio/>
+					<fechaFin/>
+				</array>
+			</oferta>
+			<productoHabitual>true</productoHabitual>
+			<adquirido>true</adquirido>
+		</productos>
+	</secciones>
+	<secciones>
+		<seccion>conservas</seccion>
+		<productos>
+			<nombre>Tomate frito casero</nombre>
+			<marca>Hacendado</marca>
+			<descripcion>Tomate frito casero en bote de cristal.</descripcion>
+			<UnidadCompra>500 gr</UnidadCompra>
+			<precioUnitario>2.1</precioUnitario>
+			<ofertaActiva>false</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta/>
+					<unidadCompra/>
+					<precioOferta/>
+					<fechaInicio/>
+					<fechaFin/>
+				</array>
+			</oferta>
+			<productoHabitual>true</productoHabitual>
+			<adquirido>true</adquirido>
+		</productos>
+		<productos>
+			<nombre>Atún en aceite de oliva</nombre>
+			<marca>Hacendado</marca>
+			<descripcion>Atún claro en aceite de oliva</descripcion>
+			<UnidadCompra>Pack de 125 gr x 3</UnidadCompra>
+			<precioUnitario>3.1</precioUnitario>
+			<ofertaActiva>false</ofertaActiva>
+			<oferta>
+				<array>
+					<descripcionOferta/>
+					<unidadCompra/>
+					<precioOferta/>
+					<fechaInicio/>
+					<fechaFin/>
+				</array>
+			</oferta>
+			<productoHabitual>true</productoHabitual>
+			<adquirido>true</adquirido>
+		</productos>
+	</secciones>
+	<nombre>Lidl</nombre>
+	<direccion>Av. de la Institución Libre de Enseñanza, 23C, 28037 Madrid</direccion>
+	<ubicacion>40.43725992117683</ubicacion>
+	<ubicacion>-3.6346611741860984</ubicacion>
+	<aperturaFestivos>true</aperturaFestivos>
+	<secciones>
+		<array>
+			<seccion>conservas</seccion>
+			<productos>
+				<nombre>Tomate frito casero</nombre>
+				<marca>Sondey</marca>
+				<descripcion>Tomate frito con cebolla en bote de cristal</descripcion>
+				<unidadCompra>500 gr</unidadCompra>
+				<precioUnitario>1.98</precioUnitario>
+				<ofertaActiva>false</ofertaActiva>
+				<oferta>
+					<array>
+						<descripcionOferta/>
+						<unidadCompra/>
+						<precioOferta/>
+						<fechaInicio/>
+						<fechaFin/>
+					</array>
+				</oferta>
+				<productoHabitual>false</productoHabitual>
+				<adquirido>false</adquirido>
+			</productos>
+			<productos>
+				<nombre>Hummus de kalamata</nombre>
+				<marca>Livorno</marca>
+				<descripcion>Hummus con aceitunas Kalamata</descripcion>
+				<unidadCompra>Envase 200 gr</unidadCompra>
+				<precioUnitario>2.0</precioUnitario>
+				<ofertaActiva>true</ofertaActiva>
+				<oferta>
+					<array>
+						<descripcionOferta>10% descuento</descripcionOferta>
+						<unidadCompra>Envase 200 gr</unidadCompra>
+						<precioOferta>1.9</precioOferta>
+						<fechaInicio>16/03/2021</fechaInicio>
+						<fechaFin>23/03/2021</fechaFin>
+					</array>
+				</oferta>
+				<productoHabitual>true</productoHabitual>
+				<adquirido>true</adquirido>
+			</productos>
+		</array>
+	</secciones>
+</supermercados>
